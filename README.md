@@ -66,6 +66,3 @@ Building AI systems around **reusable Skills, agent execution, and isolated sand
 </p>
 
 ---
-
-<div align="center">
-</div>
