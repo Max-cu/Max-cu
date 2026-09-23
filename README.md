@@ -1,14 +1,3 @@
-<div align="center">
-
-# Max
-
-Building AI systems around **reusable Skills, agent execution, and isolated sandboxes.**
-
-<img src="https://img.shields.io/badge/AI_Agents-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Skill_Runtime-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Sandboxed_Execution-6352DF?style=flat-square" />
-
-</div>
 
 <br>
 
