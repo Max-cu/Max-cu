@@ -68,5 +68,4 @@ Building AI systems around **reusable Skills, agent execution, and isolated sand
 ---
 
 <div align="center">
-  <sub>Making AI Skills easier to manage, execute and integrate.</sub>
 </div>
